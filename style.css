@@ -398,7 +398,16 @@ nav .fa-solid{
     border: none;
     width: 130px !important;
 }
-
+.mybuttonss{
+    border: 1px solid #F0801A;
+    height: 3.75rem;
+    width: 130px !important;
+    box-sizing: border-box;
+    cursor: pointer;
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 0.625rem;
+}
 
     .header-text h1{
         font-size: 30px;
