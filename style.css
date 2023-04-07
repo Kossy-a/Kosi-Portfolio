@@ -235,6 +235,7 @@ nav ul li a:hover::after{
     cursor: pointer;
     height: 3.75rem;
     width: 9.75rem;
+    border: none;
 }
 
 
@@ -386,6 +387,17 @@ nav .fa-solid{
         margin-top: 100%;
         font-size: 16px;
     }
+    
+    .mybutton{
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.625rem;
+    color: white;
+    background-color: #e47207;
+    cursor: pointer;
+    height: 3.75rem;
+    border: none;
+}
+
 
     .header-text h1{
         font-size: 30px;
