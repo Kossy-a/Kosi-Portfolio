@@ -396,6 +396,7 @@ nav .fa-solid{
     cursor: pointer;
     height: 3.75rem;
     border: none;
+    width: 0px !important;
 }
 
 
