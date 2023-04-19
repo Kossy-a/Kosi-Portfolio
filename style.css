@@ -426,6 +426,10 @@ nav .fa-solid{
     color: #ffffff;
     border-radius: 0.625rem;
 }
+    
+    .header-text h1 span{
+        color: #ff8818;
+    }
 
     .header-text h1{
         font-size: 30px;
