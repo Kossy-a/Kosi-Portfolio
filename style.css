@@ -303,6 +303,7 @@ nav ul li a:hover::after{
 
 .contact-left{
     flex-basis: 35%;
+    margin-top: 50px;
 }
 
 .contact-right{
@@ -364,6 +365,7 @@ form input, form textarea{
     color: white;
     font-size: 18px;
     border-radius: 6px;
+    margin-top: 50px;
 }
 
 form .btn{
@@ -383,6 +385,7 @@ form .btn{
     background: #361b02;
     font-weight: 300;
     margin-top: 20px;
+     margin-top: 60px;
 }
 
 .copyright i{
