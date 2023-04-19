@@ -259,13 +259,13 @@ nav ul li a:hover::after{
     border-radius: 0.625rem;
 }
 .mybuttonsss{
-    padding: 14px 14px 14px 14px;
+    padding: 1rem 1rem 1rem 1rem;
     border-radius: 0.625rem;
     color: white;
     background-color: #e47207;
     cursor: pointer;
-    height: 245px;
-    width: 527px;
+    height: 3.75rem;
+    width: 9.75rem;
     border: none;
     margin-top: 30px;
 }
@@ -426,6 +426,16 @@ nav .fa-solid{
     color: #ffffff;
     border-radius: 0.625rem;
 }
+    .mybuttonsss{
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.625rem;
+    color: white;
+    background-color: #e47207;
+    cursor: pointer;
+    height: 3.75rem;
+    width: 130px !important;
+    border: none;
+    margin-top: 30px;
     
     .header-text h1 span{
         color: #ff8818;
