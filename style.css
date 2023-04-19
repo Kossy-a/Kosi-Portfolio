@@ -115,6 +115,7 @@ nav ul li a:hover::after{
 .tab-titles{
     display: flex;
     margin: 20px 0 40px;
+     cursor: pointer;
 }
 
 .tab-links{
@@ -123,6 +124,7 @@ nav ul li a:hover::after{
     font-weight: pointer;
     font-weight: 500;
     position: relative;
+     cursor: pointer;
 }
 
 .tab-links::after{
@@ -134,6 +136,7 @@ nav ul li a:hover::after{
     left: 0;
     bottom: -8px;
     transition: 0.5s;
+     cursor: pointer;
 }
 
 .tab-links.active-link::after{
@@ -255,6 +258,17 @@ nav ul li a:hover::after{
     color: #ffffff;
     border-radius: 0.625rem;
 }
+.mybuttonsss{
+    padding: 1rem 1rem 1rem 1rem;
+    border-radius: 0.625rem;
+    color: white;
+    background-color: #e47207;
+    cursor: pointer;
+    height: 3.75rem;
+    width: 9.75rem;
+    border: none;
+    margin-top: 30px;
+}
 
 .mybuttonss:hover{
      background-color: #F0801A;
@@ -280,6 +294,7 @@ nav ul li a:hover::after{
     width: 100%;
     height: 100%;
     font-size: 12px;
+     line-height: 20px;
 }
 
 .layer h3{
